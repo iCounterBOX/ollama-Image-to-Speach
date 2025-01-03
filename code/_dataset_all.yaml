@@ -1,0 +1,72 @@
+train: D:/ALL_PROJECT/_ABc/py39y5/yolov5/data/train
+val: D:/ALL_PROJECT/_ABc/py39y5/yolov5/data/train
+
+
+# Classes
+names:    
+  0: antiqua01__
+  1: antiqua01_A
+  2: antiqua01_B
+  3: antiqua01_C
+  4: antiqua01_D
+  5: antiqua01_E
+  6: antiqua01_F
+  7: antiqua01_G
+  8: antiqua01_H
+  9: antiqua01_I
+  10: antiqua01_J
+  11: antiqua01_K
+  12: antiqua01_L
+  13: antiqua01_M
+  14: antiqua01_N
+  15: antiqua01_O
+  16: antiqua01_P
+  17: antiqua01_Q
+  18: antiqua01_R
+  19: antiqua01_S
+  20: antiqua01_T
+  21: antiqua01_U
+  22: antiqua01_V
+  23: antiqua01_W
+  24: antiqua01_X
+  25: antiqua01_Y
+  26: antiqua01_Z
+  27: antiqua01_a
+  28: antiqua01_b
+  29: antiqua01_c
+  30: antiqua01_d
+  31: antiqua01_e
+  32: antiqua01_f
+  33: antiqua01_g
+  34: antiqua01_h
+  35: antiqua01_i
+  36: antiqua01_j
+  37: antiqua01_k
+  38: antiqua01_l
+  39: antiqua01_m
+  40: antiqua01_n
+  41: antiqua01_o
+  42: antiqua01_p
+  43: antiqua01_q
+  44: antiqua01_r
+  45: antiqua01_s
+  46: antiqua01_t
+  47: antiqua01_u
+  48: antiqua01_v
+  49: antiqua01_w
+  50: antiqua01_x
+  51: antiqua01_y
+  52: antiqua01_z
+  53: antiqua01_0
+  54: antiqua01_1
+  55: antiqua01_2
+  56: antiqua01_3
+  57: antiqua01_4
+  58: antiqua01_5
+  59: antiqua01_6
+  60: antiqua01_7
+  61: antiqua01_8
+  62: antiqua01_9
+ 
+  
+  

@@ -1,0 +1,14 @@
+train: D:/ALL_PROJECT/_ABc/py39y7/yolov7/data/train
+val: D:/ALL_PROJECT/_ABc/py39y7/yolov7/data/train
+
+
+
+ 
+  
+# number of classes
+nc: 1
+
+# class names
+names: [ 'alpaca' ]
+  
+  
