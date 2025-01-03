@@ -50,11 +50,6 @@ pip install PyQt5 opencv-python pillow torch torchvision matplotlib
 
 pip install yolov7-sdk ollama-sdk
 
-**Clone the Repository**
-
-git clone https://github.com/yourusername/pyqt5-webcam-object-detection.git
-
-cd pyqt5-webcam-object-detection
 
 -----
 **Usage**
